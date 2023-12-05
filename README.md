@@ -2,10 +2,10 @@
 Applied reflectivity values for a textured semiconductor THz simulation
 
 ### Problem
-testing
+How do we incorporate the reflectivity values into the THz simulation?
 
 ### Objectives
-testing
+Identify the contour plot of the enhanced THz emission for varying reflectivity values of the textured GaAs and InAs. Show the specific volume fraction of air on the material and the thin film thickness that produced the minimum reflectivities.
 
 ### Data Understanding
 testing
